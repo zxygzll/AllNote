@@ -1,0 +1,4 @@
+封装（encapsulation）
+继承(inheritance)
+多态(polymorphism)
+继承体系（hierarchy）
